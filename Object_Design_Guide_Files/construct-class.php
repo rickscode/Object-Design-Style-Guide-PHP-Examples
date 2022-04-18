@@ -14,7 +14,7 @@
         {
             $this->class = $value;
 
-            this.someNumber = 7;
+            $this->someNumber = 7;
         }
 
         $this->class->method($data);
